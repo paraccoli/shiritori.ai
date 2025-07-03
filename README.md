@@ -22,8 +22,8 @@ A high-performance Shiritori management Discord bot using Gemini API and Discord
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd shiritori-bot
+git clone https://github.com/paraccoli/shiritori.ai.git
+cd shiritori.ai
 
 # Install dependencies
 pip install -r requirements.txt
